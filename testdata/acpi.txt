@@ -1,0 +1,2 @@
+Battery 0: Discharging, 82%, 01:57:46 remaining
+Battery 1: Discharging, 0%, rate information unavailable
